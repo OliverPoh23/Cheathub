@@ -1,4 +1,4 @@
-![](https://github.com/israelias/cheathub/blob/master/public/featurescreanshot.png?raw=true)
+![](https://github.com/andrey-bogush/cheathub/blob/master/public/featurescreanshot.png?raw=true)
 # MS3 Cheat-Hub
 A cheatsheet hub.
 
@@ -14,7 +14,7 @@ Additionally, the restful backend API can be viwed at [cheathub-backend.herokuap
 
 ## In Development 
 
-> [***Collaborate on this project***](https://github.com/israelias/cheathub/blob/master/CONTRIBUTING.md#)
+> [***Collaborate on this project***](https://github.com/andrey-bogush/Cheathub/blob/master/CONTRIBUTING.md#)
 
 > [***Send feedback anonymously***](https://gvklqnr2996.typeform.com/to/xVAAK1V0)
 
