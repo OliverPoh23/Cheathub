@@ -1,4 +1,4 @@
-![](https://github.com/israelias/cheathub/blob/master/public/featurescreanshot.png?raw=true)
+![](https://github.com/andrey-bogush/cheathub/blob/master/public/featurescreanshot.png?raw=true)
 # MS3 Cheat-Hub
 A cheatsheet hub.
 
@@ -14,7 +14,7 @@ Additionally, the restful backend API can be viwed at [cheathub-backend.herokuap
 
 ## In Development 
 
-> [***Collaborate on this project***](https://github.com/israelias/cheathub/blob/master/CONTRIBUTING.md#)
+> [***Collaborate on this project***](https://github.com/andrey-bogush/Cheathub/blob/master/CONTRIBUTING.md#)
 
 > [***Send feedback anonymously***](https://gvklqnr2996.typeform.com/to/xVAAK1V0)
 
@@ -78,7 +78,7 @@ The project can be understood as a library of user-created <em><b>Albums</b></em
 <details><summary><em><b>Code Snippet </b></em> (item)    </summary>
 <br>
 
-[<div style="text-align:center"><img src="https://github.com/israelias/cheathub/blob/master/public/MS3_Wireframes_01.jpg?raw=true" width="600px"></div>](https://github.com/israelias/cheathub/blob/master/public/MS3_Wireframes_01.jpg?raw=true)
+[<div style="text-align:center"><img src="https://github.com/andrey-bogush/cheathub/blob/master/public/MS3_Wireframes_01.jpg?raw=true" width="600px"></div>](https://github.com/andrey-bogush/cheathub/blob/master/public/MS3_Wireframes_01.jpg?raw=true)
 <br>
 </details>
 <hr>
@@ -87,7 +87,7 @@ The project can be understood as a library of user-created <em><b>Albums</b></em
 <details><summary><em><b>Collection</b></em> (playlist)   </summary>
 <br>
 
-[<div style="text-align:center"><img src="https://github.com/israelias/cheathub/blob/master/public/MS3_Wireframes_02.jpg?raw=true" width="600px"></div>](https://github.com/israelias/cheathub/blob/master/public/MS3_Wireframes_02.jpg?raw=true)
+[<div style="text-align:center"><img src="https://github.com/andrey-bogush/cheathub/blob/master/public/MS3_Wireframes_02.jpg?raw=true" width="600px"></div>](https://github.com/andrey-bogush/cheathub/blob/master/public/MS3_Wireframes_02.jpg?raw=true)
 
 <br>
 </details>
@@ -97,7 +97,7 @@ The project can be understood as a library of user-created <em><b>Albums</b></em
 <details><summary><em><b>Search</b></em> (filter)    </summary>
 <br>
 
-[<div style="text-align:center"><img src="https://github.com/israelias/cheathub/blob/master/public/MS3_Wireframes_03.jpg?raw=true" width="600px"></div>](https://github.com/israelias/cheathub/blob/master/public/MS3_Wireframes_03.jpg?raw=true)
+[<div style="text-align:center"><img src="https://github.com/andrey-bogush/cheathub/blob/master/public/MS3_Wireframes_03.jpg?raw=true" width="600px"></div>](https://github.com/israelias/cheathub/blob/master/public/MS3_Wireframes_03.jpg?raw=true)
 
 <br>
 </details>
